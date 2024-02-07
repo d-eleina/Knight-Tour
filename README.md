@@ -4,5 +4,7 @@ It is a variation of the Knight's Tour Problem.
 The program copiled perefctly in g++ using the commands:
 
 g++ -o knight knight.cpp
+
 ./knight [size] [starting square] [ending square]
+
 Example: ./knight 3 a1 c3
